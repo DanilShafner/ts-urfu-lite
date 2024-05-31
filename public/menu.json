@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Борщ",
+    "category": "soups",
+    "price": 299.99,
+    "image": "/images/borscht.jpg",
+    "ingredients": "Свекла, капуста, картофель, морковь, лук, говядина, томатная паста"
+  },
+  {
+    "id": "2",
+    "name": "Солянка",
+    "category": "soups",
+    "price": 349.99,
+    "image": "/images/solyanka.jpg",
+    "ingredients": "Колбаса, огурцы, оливки, лимон, томатная паста, лук, картофель"
+  },
+  {
+    "id": "3",
+    "name": "Кока-Кола",
+    "category": "drinks",
+    "price": 99.99,
+    "image": "/images/coca-cola.jpg",
+    "ingredients": "Вода, сахар, двуокись углерода, краситель, ароматизаторы"
+  },
+  {
+    "id": "4",
+    "name": "Чай",
+    "category": "drinks",
+    "price": 129.99,
+    "image": "/images/tea.jpg",
+    "ingredients": "Чайные листья, лимон, сахар"
+  },
+  {
+    "id": "5",
+    "name": "Котлета по-киевски",
+    "category": "hot",
+    "price": 499.99,
+    "image": "/images/kiev-cutlet.jpg",
+    "ingredients": "Куриная грудка, масло, панировочные сухари, яйца, мука"
+  },
+  {
+    "id": "6",
+    "name": "Стейк",
+    "category": "hot",
+    "price": 549.99,
+    "image": "/images/steak.jpg",
+    "ingredients": "Говядина, соль, перец, растительное масло"
+  },
+  {
+    "id": "7",
+    "name": "Овсяная каша",
+    "category": "porridge",
+    "price": 199.99,
+    "image": "/images/oatmeal.jpg",
+    "ingredients": "Овсяные хлопья, молоко, сахар, соль"
+  },
+  {
+    "id": "8",
+    "name": "Рисовая каша",
+    "category": "porridge",
+    "price": 249.99,
+    "image": "/images/rice-porridge.jpg",
+    "ingredients": "Рис, молоко, сахар, соль"
+  },
+  {
+    "id": "9",
+    "name": "Цезарь",
+    "category": "salads",
+    "price": 179.99,
+    "image": "/images/caesar.jpg",
+    "ingredients": "Курица, салат, помидоры, сыр пармезан, сухарики, соус"
+  },
+  {
+    "id": "10",
+    "name": "Оливье",
+    "category": "salads",
+    "price": 199.99,
+    "image": "/images/olivier.jpg",
+    "ingredients": "Картофель, морковь, колбаса, яйца, огурцы, горошек, майонез"
+  },
+  {
+    "id": "11",
+    "name": "Яичница с беконом",
+    "category": "breakfast",
+    "price": 149.99,
+    "image": "/images/bacon-eggs.jpg",
+    "ingredients": "Яйца, бекон, соль, перец"
+  },
+  {
+    "id": "12",
+    "name": "Блины с медом",
+    "category": "breakfast",
+    "price": 169.99,
+    "image": "/images/pancakes-honey.jpg",
+    "ingredients": "Мука, молоко, яйца, сахар, мед"
+  },
+  {
+    "id": "13",
+    "name": "Томатный суп",
+    "category": "soups",
+    "price": 319.99,
+    "image": "/images/tomato-soup.jpg",
+    "ingredients": "Томаты, лук, чеснок, оливковое масло, соль, перец"
+  },
+  {
+    "id": "14",
+    "name": "Лимонад",
+    "category": "drinks",
+    "price": 109.99,
+    "image": "/images/lemonade.jpg",
+    "ingredients": "Вода, лимонный сок, сахар, мята"
+  },
+  {
+    "id": "15",
+    "name": "Шашлык",
+    "category": "hot",
+    "price": 599.99,
+    "image": "/images/shashlik.jpg",
+    "ingredients": "Свинина, лук, соль, перец, уксус"
+  }
+]
